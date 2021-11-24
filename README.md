@@ -10,12 +10,12 @@ The dataset has information on items, location, day, type of payments among othe
 Historically, supermarkets have their business models radically reshaped by cashless payment in store, online (advertisement, payments, locations) and in the food industry supply chain.
 The lack of or derailment in implementation of crucial strategies have led to the closure of major supermarkets across Kenya. This analysis seeks to increase sales volume thus benefiting the business as a whole by finding out the following information:
 
-The most preferred payment method (cash, mpesa or visa card.)
-The most generated sales from individuals in the branch.
-The time of the day or night do supermarkets receive the most traffic (weekdays/weekends)?
-The most popular category of products
-Did consumers prefer chain/medium or small stores?
-Whether having high-end consumables benefit the supermarket more than low end consumables 
+* The most preferred payment method (cash, mpesa or visa card.)
+* The most generated sales from individuals in the branch.
+* The time of the day or night do supermarkets receive the most traffic (weekdays/weekends)?
+* The most popular category of products
+* Did consumers prefer chain/medium or small stores?
+* Whether having high-end consumables benefit the supermarket more than low end consumables 
 
 ## Setup/Installation Requirements
 * Obtain specific data to be used for analysis
