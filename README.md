@@ -1,6 +1,5 @@
 @@ -1 +1,22 @@
-# Group-Project
-# group three project
+
 # group three moringa school prep project
 #### This is a python collab notebook, that we have been working on in prep final project, python 3
 #### By Opra Muthoni, Kevin Misoi, Denver Ruhiu, Charles Mburu, Francis Thauri
